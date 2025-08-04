@@ -1,7 +1,7 @@
 streamlit==1.37.0
-pandas==2.2.2               # 适配 Python 3.13
-tiktoken==0.7.0             # 提供预编译 wheel
+pandas==2.2.2
+tiktoken==0.7.0
 langchain==0.2.0
-langchain-openai==0.1.0
+langchain-openai==0.1.8 
 openai==1.30.0
 faiss-cpu==1.8.0
